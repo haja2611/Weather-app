@@ -1,0 +1,13 @@
+.current {
+  background-color: white;
+  color: black;
+  width: 80vw;
+  margin: 5vh;
+  opacity: 0.8;
+}
+.currentBody {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 3vh;
+}
